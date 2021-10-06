@@ -16,4 +16,4 @@ You will also see any lint errors in the console.
 
 
 
-# `Or Follow link` [https://VovEremin/github.io/films-rating/](https://VovEremin/github.io/films-rating/)
+# `Or Follow link` [https://VovEremin.github.io/films-rating/](https://VovEremin.github.io/films-rating/)
